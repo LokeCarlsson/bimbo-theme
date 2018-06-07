@@ -63,6 +63,8 @@
 		"list.inactiveSelectionForeground": "#D4D4D4",
 		"list.hoverForeground": "#D4D4D4",
 		"list.focusForeground": "#D4D4D4",
+		"list.errorForeground": "#E15A60",
+		"list.warningForeground": "#FAC863",
 
 		// Activity Bar
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
@@ -99,6 +101,8 @@
 		"tab.unfocusedInactiveForeground": "#7F7F7F",
 		"tab.hoverBackground": "#242B2E",
 		"tab.unfocusedHoverBackground": "#242B2E",
+		// "tab.activeBorderTop": "#",
+		// "tab.unfocusedActiveBorderTop": "#",
 		// "tab.hoverBorder": "#30373A",
 		// "tab.unfocusedHoverBorder": "#30373A",
 		// "editor.selectionHighlightBorder": "#f00",
